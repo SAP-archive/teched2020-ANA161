@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# ANA161 - The Ultimate Deep Dive into SAP Analytics Cloud
 
 ## Description
 
