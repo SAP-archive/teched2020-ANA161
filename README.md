@@ -10,7 +10,7 @@ This session consists of a series of exercises to introduce you to the most inno
 
 For the more experienced SAP Analytics Cloud users, we have also included additional in-depth content in our Jump Off sections. These will teach you our best practices and most powerful features for creating calculations and blending data, building versatile geo visualizations, manipulating time dimensions, and showcasing your work in Digital Boardroom.
 
-## Requirements
+## Instructions to Log onto Tenant
 
 We will be using a provided SAP Analytics Cloud tenant for these exercises.
 
