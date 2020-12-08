@@ -22,7 +22,7 @@ Our exercises build on the previous exercise for a holistic learning experience.
 
 ## Exercises
 
-Start the exercises [here](ANA%20161%2020.10%20SM.pdf).
+Start the exercises [here](ANA161%20-%20Hands-On%20Script%20-%20The%20Ultimate%20Deep%20Dive%20into%20SAP%20Analytics%20Cloud.pdf).
 
 ## How to obtain support
 
