@@ -1,5 +1,7 @@
 # ANA161 - The Ultimate Deep Dive into SAP Analytics Cloud
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-ana161)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-ana161)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called ANA161 - The Ultimate Deep Dive into SAP Analytics Cloud.
